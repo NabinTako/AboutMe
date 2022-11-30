@@ -1,5 +1,3 @@
-# :)
-
 - 👋 Hi, I’m Nabin Tako
 - 👀 I’m interested in Programing, Game Development
 - 🌱 Currently learning React js, C# and unity
