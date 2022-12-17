@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **as a Student in Kathmandu,Nepal**
 
-- 🌱 I’m currently learning **Node.js,Express.js and c#**
+- 🌱 I’m currently learning **Node.js,Express.js**
 
 - 💬 Ask me about  **Game, Movies**
 
