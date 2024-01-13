@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **as a Student in Kathmandu,Nepal**
 
-- 🌱 I’m currently learning **Node.js,Express.js**
+- 💬 Ask me about  **Game, Movies,Codes**
 
-- 💬 Ask me about  **Game, Movies**
-
-- ⚡ Fun fact **I play a game called Life.**
+- ⚡ Fun fact **I play a game called Life. This game is highly Realistic !**
 
 - 📫 How to reach me **nabintako999@gmail.com**
 
